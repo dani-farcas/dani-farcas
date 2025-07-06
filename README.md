@@ -1,3 +1,4 @@
+
 # 👋 Hallo, ich bin Daniel Farcaș
 
 Ich bin ein motivierter Quereinsteiger mit echter Fullstack-Projekterfahrung in **React (TypeScript)** und **Django REST API**. Ich habe eine reale Webplattform eigenständig geplant und umgesetzt – von Authentifizierung über Formularlogik bis hin zu Matching-Systemen und Admin-Dashboards.
@@ -41,9 +42,10 @@ Ich verstehe, was ich tue – und erweitere täglich mein Wissen.
 
 ## 🗣️ Sprachkenntnisse
 
+- **Rumänisch:** Muttersprache  
 - **Deutsch:** fließend in Wort und Schrift, sicher im Berufsalltag  
   *(Ich verfüge nicht über ein offizielles C1-Zertifikat, kann mich aber im Arbeitskontext problemlos ausdrücken. Bei komplexen Formulierungen nutze ich gelegentlich KI-Unterstützung wie ChatGPT.)*
-- **Englisch:** sehr gut
+- **Englisch:** sehr gut  
 - **Französisch:** fließend
 
 ---
@@ -58,6 +60,3 @@ Ich verstehe, was ich tue – und erweitere täglich mein Wissen.
 
 📌 *Ich bin offen für neue Herausforderungen im Bereich Webentwicklung – gerne auch remote oder hybrid.  
 Ich freue mich auf eine Kontaktaufnahme oder die Möglichkeit, mich persönlich vorzustellen.*
-
-
-
