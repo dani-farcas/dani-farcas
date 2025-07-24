@@ -60,7 +60,7 @@ Was ich nicht weiß, arbeite ich mir motiviert und gewissenhaft selbständig an.
 ## 📫 Kontakt
 
 📧 **E-Mail:** dlm33730@gmail.com *(aktiv für Bewerbungen)*  
-🔗 [**Lebenslauf (PDF)**](https://drive.google.com/drive/folders/1Q9Ned0nHD-25wYz-7Kf_njQHSRHJRKkB)  
+🔗 📄 [Lebenslauf (PDF)](https://drive.google.com/file/d/16aj0NjM5t0gct7xWPHD9M6npU8btsRjS/view?usp=sharing) 
 🔗 [**LinkedIn-Profil**](https://www.linkedin.com/in/dani-farcas-760402112/)
 
 ---
