@@ -1,50 +1,57 @@
-
 # 👋 Hallo, ich bin Daniel Farcaș
 
-Ich bin ein motivierter Quereinsteiger mit echter Fullstack-Projekterfahrung in **React (TypeScript)** und **Django REST API**. Ich habe eine reale Webplattform eigenständig geplant und umgesetzt – von Authentifizierung über Formularlogik bis hin zu Matching-Systemen und Admin-Dashboards.
+Ich bin Umschüler zum **Fachinformatiker für Anwendungsentwicklung** (DAA Gießen) und aktuell auf der Suche nach einem **einjährigen Praktikum ab März 2026**.  
+Mein Praktikum ist vollständig durch die Agentur für Arbeit gefördert und verursacht **keine Kosten für das Unternehmen**.
+
+Parallel zur Umschulung entwickle ich eine reale Webplattform – von der Benutzerregistrierung bis hin zu Matching-Systemen und Dashboards – mit modernen Technologien wie **React**, **TypeScript**, **Django REST API** und **PostgreSQL**.
 
 ---
 
 ## 💼 Was bringe ich mit?
 
-- **Frontend:** React, TypeScript, Zustand, Axios, HTML/CSS
+- **Frontend:** React, TypeScript, Zustand, Axios, HTML, CSS
 - **Backend:** Django REST Framework, PostgreSQL, JWT, API-Design
-- **DevOps:** Nginx, Render, Vercel, GitHub Actions (CI/CD), .env-Konfiguration
-- **Weitere Features:** Dark Mode, PDF-Export, E-Mail-Bestätigung, Datei-Upload, Matching-Logik
+- **DevOps:** Docker, Nginx, Render, Vercel, GitHub Actions (CI/CD)
+- **Features:** Dark Mode, PDF-Export, Datei-Upload, E-Mail-Bestätigung, Matching-Logik
 
 ---
 
-## 🚀 Projektarbeit (nicht öffentlich)
+## 🚀 Projektarbeit *(nicht öffentlich einsehbar)*
 
-Aktuell entwickle ich eine reale B2B-Webplattform zur intelligenten Dienstleistungsvermittlung, die Kunden mit passenden Anbietern verbindet – basierend auf Region und Anforderung.
+Ich entwickle eine praxisorientierte B2B-Webplattform zur intelligenten Dienstleistungsvermittlung.  
+Ziel: passende Anbieter auf Basis von Region und Bedarf mit Kunden zu vernetzen.
 
-🧩 **Funktionsübersicht:**
-- Benutzerrollen (Client / Provider)
+### 🧩 Funktionsübersicht:
+- Benutzerrollen: Client / Provider
 - Registrierung mit E-Mail-Bestätigung
-- Dynamische Formulare mit Validierung & Dateiupload
-- Matching-Algorithmus
-- Responsive Dashboards mit Dark Mode
-- Abonnement-System mit Stripe/Mollie (geplant)
+- dynamische Formulare mit Validierung und Datei-Upload
+- Matching-Logik basierend auf PLZ und Service
+- responsive Dashboards mit Dark Mode
+- geplantes Abo-System (Stripe/Mollie)
 
-🛠️ Technologien:  
-**React + TypeScript (Frontend)** · **Django REST (Backend)** · Deployment via **Render & Vercel**
+🛠️ **Technologien:**  
+React + TypeScript · Django REST Framework · PostgreSQL · Docker · Deployment via Render & Vercel
 
 ---
 
-## 🤖 Wie ich arbeite
+## 🤖 Meine Arbeitsweise
 
-Ich nutze moderne KI-Tools wie **ChatGPT aktiv im Entwicklungsprozess** – zur Unterstützung bei Logik, Dokumentation, Debugging und Lernen.  
-Für mich steht **Lösungsorientierung** im Mittelpunkt – nicht das Auswendiglernen.  
-Ich kann Anforderungen in funktionierenden Code umsetzen, auch wenn ich diesen oft mit Hilfe intelligenter Tools erarbeite.  
-Ich verstehe, was ich tue – und erweitere täglich mein Wissen.
+Ich nutze moderne Tools wie **ChatGPT** aktiv zur Unterstützung im Lern- und Entwicklungsprozess – z. B. bei:
+- Strukturierung von Code
+- technischen Erklärungen
+- Fehleranalyse und Debugging
+- Architekturverständnis
+
+Ich kann Anforderungen erfassen, strukturieren und umsetzen – auch wenn ich dabei regelmäßig Unterstützung nutze.  
+Was ich nicht weiß, arbeite ich mir motiviert und gewissenhaft selbständig an.
 
 ---
 
 ## 🗣️ Sprachkenntnisse
 
 - **Rumänisch:** Muttersprache  
-- **Deutsch:** fließend in Wort und Schrift, sicher im Berufsalltag  
-  *(Ich verfüge nicht über ein offizielles C1-Zertifikat, kann mich aber im Arbeitskontext problemlos ausdrücken. Bei komplexen Formulierungen nutze ich gelegentlich KI-Unterstützung wie ChatGPT.)*
+- **Deutsch:** fließend in Wort und Schrift  
+  *(ohne offizielles C1-Zertifikat, aber sicher im beruflichen Kontext; bei komplexeren Formulierungen nutze ich gelegentlich KI-Unterstützung wie ChatGPT)*  
 - **Englisch:** sehr gut  
 - **Französisch:** fließend
 
@@ -52,11 +59,13 @@ Ich verstehe, was ich tue – und erweitere täglich mein Wissen.
 
 ## 📫 Kontakt
 
-📧 E-Mail: dlm33730@gmail.com *(privat, aktiv genutzt für Bewerbungen)*  
-🔗 [Mein CV (PDF)](https://drive.google.com/file/d/1a4_zyB8ir9DYnbgxz4zY7dO94B1SOLkN/view?usp=drive_link)  
-🔗 [LinkedIn](https://www.linkedin.com/in/dani-farcas-760402112/)
+📧 **E-Mail:** dlm33730@gmail.com *(aktiv für Bewerbungen)*  
+🔗 [**Lebenslauf (PDF)**](https://drive.google.com/drive/folders/1Q9Ned0nHD-25wYz-7Kf_njQHSRHJRKkB)  
+🔗 [**LinkedIn-Profil**](https://www.linkedin.com/in/dani-farcas-760402112/)
 
 ---
 
-📌 *Ich bin offen für neue Herausforderungen im Bereich Webentwicklung – gerne auch remote oder hybrid.  
-Ich freue mich auf eine Kontaktaufnahme oder die Möglichkeit, mich persönlich vorzustellen.*
+## 📌 Offenes Profil
+
+Ich suche ein Praktikum im Bereich **Webentwicklung (Frontend oder Fullstack)** – gerne **remote oder hybrid**.  
+Ich freue mich über eine Kontaktaufnahme oder die Möglichkeit, mich persönlich vorzustellen.
