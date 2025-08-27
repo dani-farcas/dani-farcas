@@ -42,4 +42,4 @@ Die Applikation wurde von Grund auf als Fullstack-System konzipiert – mit klar
 
 Die folgende Aufnahme zeigt einen Ausschnitt der Projektstruktur im Editor, sowie den Inhalt der zentralen `README.md`-Datei und den laufenden Entwicklungsserver:
 
-![ecoMatch VS Code Übersicht](./images/vscode-ecoMatch-overview.png.png)
+
